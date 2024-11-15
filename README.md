@@ -1,0 +1,2 @@
+# nperi1205-Heart-Disease-Prediction-Using-Machine-Learning
+Our project enhances heart disease prediction using patient-specific features, aiming to reduce misdiagnoses and optimize healthcare resources. By processing 13 numerical features through models like SVM, Logistic Regression, KNN, and Random Forest, it predicts a binary outcome (1 or 0) to indicate the presence or absence of heart disease.
